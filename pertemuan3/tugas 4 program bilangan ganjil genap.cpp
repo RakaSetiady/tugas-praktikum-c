@@ -2,7 +2,7 @@
 
 int main()
 {
-	int A;
+	int A;raka
 	printf("imput bilangan bulat:");
 	scanf("%i", &A);
 
